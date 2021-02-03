@@ -1,0 +1,25 @@
+############################# Service ###############################
+service:
+  enable : true
+  title : "Our Services"
+  description : "We provide services below to accelerate your business digital experiences"
+  service_item:
+    # service item loop
+    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Branding
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Web Design
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: App Design
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # service item loop
+    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: Start Up
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"

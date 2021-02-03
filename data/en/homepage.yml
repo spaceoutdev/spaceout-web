@@ -1,0 +1,52 @@
+############################### Banner ##############################
+banner:
+  enable : true
+  bg_image : "images/slider-bg.jpg"
+  bg_overlay : true
+  title : "Bridging Startup & Tech"
+  content : "We aim to help startup launch their ideas"
+  button:
+    enable : true
+    label : "Learn How We Can Help"
+    link : "contact"
+
+############################# About #################################
+about:
+  enable : true
+  title : "About Us"
+  description : "We are a team of creative developers working together to design and build on your company ideas and accelerate its digital experiences."
+  content : "Passionate in what we do, we take pride in building and delivering our project in timely and accurate manner."
+  image : "images/wrapper-img.jpg"
+
+
+######################### Portfolio ###############################
+portfolio:
+  enable : true
+  bg_image : "images/feature-bg.jpg"
+  title : "WE BELIEVE IN GREAT IDEAS"
+  content : "
+  We'd love to help your idea grow. Talk to us and help us help you.
+  <br><br><br>
+  "
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact"
+
+
+############################# Service ############################
+service:
+  enable : true
+  # service content comes from "data/*/service.yml" file
+
+
+############################ call to action ###########################
+cta:
+  enable : true
+  bg_image : "images/call-to-action-bg.jpg"
+  title : "We design delightful digital experiences."
+  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  button:
+    enable : true
+    label : "Tell Us Your Story"
+    link : "contact"
