@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://spaceout.dev"
+baseURL = "https://spaceoutdev.github.io/spaceout-web/"
 title = "SpaceOut | Bridging Startup and Tech"
 theme = "airspace-hugo"
 # post pagination
@@ -10,6 +10,8 @@ summaryLength = "30"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+
+publishDir = "docs"
 
 ################################# Outputs #################################
 # hugo outputs
